@@ -26,7 +26,8 @@ The application fetches **real-time weather data** from WeatherAPI and displays 
 ---
 
 ## 📸 Preview
-*(Add a screenshot of your app here)*
+<img width="1914" height="874" alt="image" src="https://github.com/user-attachments/assets/5cd09970-5e89-4e78-8152-0ba3f8d64318" />
+
 
 ---
 
@@ -35,4 +36,17 @@ The application fetches **real-time weather data** from WeatherAPI and displays 
   https://www.weatherapi.com/
 
 ---
+# Clone the repository
+git clone https://github.com/ganesh-ram-droid/Simple-Weather-.git
+
+# Navigate to project directory
+cd react-weather-dashboard
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+
+ensure you have your own api key
 
