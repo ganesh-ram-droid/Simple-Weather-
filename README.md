@@ -36,17 +36,3 @@ The application fetches **real-time weather data** from WeatherAPI and displays 
 
 ---
 
-## ⚙️ Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/react-weather-dashboard.git
-
-# Navigate to project directory
-cd react-weather-dashboard
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
